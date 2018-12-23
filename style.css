@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
+
+.title {
+    position: absolute;
+    left: 38%;
+    top: 20%;
+    font-family: 'acme', sans-serif;
+}
+
+.tombol {
+    width: 50px;
+    font-size: 30px;
+    margin: 2px;
+    height: 50%;
+    cursor: pointer;
+}
+
+.buttonNol {
+    width: 110px;
+    height: 50px;
+    margin: 2px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.buttonHasil {
+    width: 50px;
+    cursor: pointer;
+    margin: 2px;
+    font-size: 30px;
+}
+
+.textview{
+    width: 217px;
+    margin: 4px;
+    height: 30px;
+    font-size: 20px;
+}
+
+html {
+    background-color: rgb(119, 170, 247);
+}
